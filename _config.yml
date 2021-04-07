@@ -3,29 +3,29 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Manoj Kesavulu
+title: Doctoral Scholar
+email: manojpratnas@gmail.com | manoj.kesavulu@dcu.ie
+website: manoj-kesavulu.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: chintu0019
+github_username:  chintu0019
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: spongebob.404
+linkedin_username: manoj-kesavulu
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,18 +46,18 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/MK.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Manoj and I'm a highly energetic and confident, coding enthusiast always eager to learn new technologies with a master’s degree in Information and Network Security from University of Limerick and pursuing Doctor of Philosophy (PhD) in Usage Analytics for Cloud Applications at Dublin City University.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Research</mark> <mark>Data analytics</mark> <mark>Programming</mark> and <mark>Gaming</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Industrial collaboration research project with IBM – ‘Usage Analytics – User level SaaS based Usage Analytics’
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
