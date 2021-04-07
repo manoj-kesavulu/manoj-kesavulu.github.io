@@ -8,7 +8,7 @@ version: 1
 # Personal info
 name: Manoj Kesavulu
 title: Doctoral Scholar
-email: manojpratnas@gmail.com | manoj.kesavulu@dcu.ie
+email: manojpratnas@gmail.com
 website: manoj-kesavulu.github.io
 
 # Dark Mode (true/false/never)
@@ -31,12 +31,15 @@ linkedin_username: manoj-kesavulu
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Lero, DCU
+  icon: fas graduation-cap
+  url: https://dcu.lero.ie/team/manojkesavulu/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- title: Lero | Science Foundation Ireland Research Centre for Software
+  icon: fas microscope
+  url: https://lero.ie/people/manoj-kesavulu
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -58,20 +61,19 @@ content:
     content:
       - layout: top-middle
         title: Industrial collaboration research project with IBM – ‘Usage Analytics – User level SaaS based Usage Analytics’
-        link: github.com/sproogen
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          I started with this two year project in January 2017 as part of the academic-industrial collaboration between Dublin City University and IBM Research Labs. 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
