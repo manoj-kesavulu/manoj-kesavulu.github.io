@@ -32,13 +32,13 @@ linkedin_username: manoj-kesavulu
 # Additional icon links
 additional_links:
 - title: Lero, DCU
-  icon: fab graduation-cap
+  icon: fas fa-graduation-cap
   url: https://dcu.lero.ie/team/manojkesavulu/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 - title: Lero | Science Foundation Ireland Research Centre for Software
-  icon: fab microscope
+  icon: fas fa-microscope
   url: https://lero.ie/people/manoj-kesavulu
 
 # Google Analytics and Tag Manager
