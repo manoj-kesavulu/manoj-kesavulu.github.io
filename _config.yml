@@ -73,7 +73,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started with this two year project in January 2017 as part of the academic-industrial collaboration between Dublin City University and IBM Research Labs. 
+          I started with this two year project in January 2017 as part of the academic-industrial collaboration between Dublin City University and IBM Research Labs. The research investigated user-level usage analysis in the cloud space, focusing on customer usage data mining for cloud on/off-boarding trends, trajectories, risk assessments, tenant/cross-tenant patterns to infer usage confidence. The project determined which features and functions are used, when and how, as this impacts software development costs. The results were two-fold: 1. cost-driven architecture analysis and decision support,2. usage-oriented software improvement and maintenance. The project successfully completed and resulted in an invention.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
