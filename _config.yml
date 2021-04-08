@@ -254,6 +254,7 @@ content:
   - title: Awards
     layout: list
     content: 
+      # Invention
       - layout: top
         title: "INVENTION: System and methods for identifying end-user usage behaviour to improve software design decisions"
         sub_title: Lead Inventor - IBM, Lero, DCU - IP.com
@@ -292,7 +293,18 @@ content:
         sub_title: State-level Science Fair
         caption: "2006"
         description: Won the best science project award for the project "Bio-Mathematics" presented by Sarvajanika Shikshana Ilake, Govt. of Karnataka, India
-   
+  
+  # Publications Section
+  - title: Publications
+    layout: list
+    content: 
+      # Invention
+      - layout: top
+        additional_links:
+          - title:  Invention Link
+            icon: fas fa-globe
+            url: https://dl.acm.org/doi/abs/10.1145/3304113.3326116
+        description: "Lux, M., Halvorsen, P., DT Dang-Nguyen, Stensland, H., Kesavulu, M., Potthast, M. & Riegler, M. (2019). Summarizing E-sports matches and tournaments : the example of counter-strike : global offensive. In Proceedings of the 11th ACM Workshop on Immersive Mixed and Virtual Environment Systems (MMVE ’19). Association for Computing Machinery, New York, NY, USA. <mark>MVME</mark> <mark>ACM</mark>"
 
 # Footer
 footer_show_references: true
