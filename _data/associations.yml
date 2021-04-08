@@ -1,0 +1,21 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Dance Limerick
+  role: Volunteer
+  year: September 2014 &mdash; November 2014
+  url: https://dancelimerick.ie/
+  summary: Participated in art exhibition and dance festivals for the benefit of local artists
+
+
+- organization: Open House Limerick
+  role: Volunteer
+  year: September 2014 &mdash; November 2014
+  url: https://www.openhouselimerick.ie/
+  summary: Volunteered as a security for the building tours promoting beautiful architectural monuments in Limerick 
+
+- organization: Hope in Motion 
+  role: Web Developer
+  year: October 2014 &mdash; November 2015
+  #url: https://www.hopeinmotion.ie
+  summary: Helped develop the website pro bono for the Hopeinmotion, a non-profit organisation
