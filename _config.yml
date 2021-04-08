@@ -247,6 +247,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: ’Optimization of Data Processing in Private Cloud’
 
+          <mark>OpenStack</mark> <mark>Cloud Scheduling Algorithm</mark> <mark>C</mark> <mark>Java</mark> <mark>Linux Scripting</mark> 
+  
+  
   # Awards Section
   - title: Awards
     layout: list
