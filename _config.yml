@@ -298,13 +298,63 @@ content:
   - title: Publications
     layout: list
     content: 
-      # Invention
+      # publication
       - layout: top
         additional_links:
-          - title:  Invention Link
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://link.springer.com/chapter/10.1007/978-3-030-32965-5_6
+        description: "Kesavulu M., Dang-Nguyen DT., Bezbradica M. & Helfert M. (2019) **Usage Analytics : A Process to Extract and Analyse Usage Data to Understand User Behaviour in Cloud**. In the Book: Holzinger A., Silva H., Helfert M. (eds) Computer-Human Interaction Research and Applications (CHIRA). *Communications in Computer and Information Science*, vol 654. Springer. <mark>CHIRA</mark> <mark>SPRINGER</mark>"
+      # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
             icon: fas fa-globe
             url: https://dl.acm.org/doi/abs/10.1145/3304113.3326116
-        description: "Lux, M., Halvorsen, P., DT Dang-Nguyen, Stensland, H., Kesavulu, M., Potthast, M. & Riegler, M. (2019). **Summarizing E-sports matches and tournaments : the example of counter-strike : global offensive**. In Proceedings of the 11th ACM Workshop on Immersive Mixed and Virtual Environment Systems (MMVE ’19). Association for Computing Machinery, New York, NY, USA. <mark>MVME</mark> <mark>ACM</mark>"
+        description: "Lux, M., Halvorsen, P., DT Dang-Nguyen, Stensland, H., Kesavulu, M., Potthast, M. & Riegler, M. (2019). **Summarizing E-sports matches and tournaments : the example of counter-strike : global offensive**. In Proceedings of the *11th ACM Workshop on Immersive Mixed and Virtual Environment Systems (MMVE ’19)*. Association for Computing Machinery, New York, NY, USA. <mark>MVME</mark> <mark>ACM</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://dl.acm.org/doi/10.5220/0006764002540261
+        description: "DT Dang-Nguyen, Kesavulu, M., Helfert, M. (2018). **Usage Analytics : Research Directions to Discover Insights from Cloudbased Applications.** In Proceedings of the *7th International Conference on Smart Cities and Green ICT Systems (SMARTGREENS)*. Madeira, Portugal. <mark>SMARTGREEENS</mark> <mark>ACM</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1020&context=ukais2018
+        description: "Kesavulu, M., DT Dang-Nguyen, Bezbradica, M. & Helfert, M. (2018). **An Overview of User-level Usage Monitoring in Cloud Environment**. In Proceedings of the *23rd UK Academy for Information Systems International Conference (UKAIS)*. The University of Oxford, The United Kingdom. <mark>AIS</mark> <mark>UKAIS</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://core.ac.uk/download/pdf/159120191.pdf
+        description: "Kesavulu, M., DT Dang-Nguyen, Bezbradica, M. & Helfert, M. (2018). **A Usage Analytics Model for Analysing User Behaviour in IBM Academic Cloud**. In the proceedings of the *6th International IBM Cloud Academy Conference (ICACON)*. The Institute of Statistical Mathematics, Tokyo, Japan. <mark>ICACON</mark> <mark>IBM</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://doi.org/10.5220/0006373106920695
+        description: "Kesavulu, M., Bezbradica, M., & Helfert, M. (2017). **Generic Refactoring Methodology for Cloud Migration - Position Paper**. In Proceedings of the *7th International Conference on Cloud Computing and Services Science (CLOSER)* (pp. 692–695). Porto, Portugal. SCITEPRESS - Science and Technology Publications. <mark>CLOSER</mark> <mark>SCITEPRESS</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://www.scitepress.org/papers/2017/65127/65127.pdf
+        description: "Kesavulu, M., Helfert, M., & Bezbradica, M. (2017). **A Usage-based Data Extraction Framework for Cloud-Based Application - An Human-Computer Interaction approach**. In Proceedings of the *International Conference on Computer-Human Interaction Research and Applications (CHIRA)*. Madeira, Portugal.   <mark>CHIRA</mark> <mark>SCITEPRESS</mark>"
+        # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: http://mural.maynoothuniversity.ie/12096/1/Helfert_Towards_2016.pdf 
+        description: "Kesavulu, M., Helfert, M., & Bezbradica, M. (2016). **Towards Refactoring in Cloud-Centric Internet of Things for Smart Cities**. In *AIS Pre-ICIS Workshop On “IoT & Smart City Challenges and Applications”* (pp. 1–8). Dublin, Ireland.  <mark>Pre-ICIS workshop</mark>"
+
 
 # Footer
 footer_show_references: true
