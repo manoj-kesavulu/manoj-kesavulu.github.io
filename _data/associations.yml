@@ -1,15 +1,21 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: Dance Limerick
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: September 2014 &mdash; November 2014
+  url: https://dancelimerick.ie/
+  summary: Participated in art exhibition and dance festivals for the benefit of local artists
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Open House Limerick
+  role: Volunteer
+  year: September 2014 &mdash; November 2014
+  url: https://www.openhouselimerick.ie/
+  summary: Volunteered as a security for the building tours promoting beautiful architectural monuments in Limerick 
+
+- organization: Hope in Motion 
+  role: Web Developer
+  year: October 2014 &mdash; November 2015
+  #url: https://www.hopeinmotion.ie
+  summary: Helped develop the website pro bono for the Hopeinmotion, a non-profit organisation

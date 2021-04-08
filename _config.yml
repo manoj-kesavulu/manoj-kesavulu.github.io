@@ -22,7 +22,7 @@ resume_contact_email:           "manojpratnas@gmail.com"
 resume_contact_telephone:       "+353894180169"
 resume_contact_address:         "19 Howth Junction Cottages, Kilbarrack, Dublin 5 • D05YF44"
 
-resume_header_contact_info:     "19 Howth Junction Cottages, Kilbarrack, Dublin 5 • D05YF44 • manojpratnas@gmail.com"
+resume_header_contact_info:     "19 Howth Junction Cottages, Kilbarrack, Dublin 5, D05YF44 • manojpratnas@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hi, my name is Manoj and I'm a highly energetic and confident, coding enthusiast always eager to learn new technologies with a master’s degree in Information and Network Security from University of Limerick and pursuing Doctor of Philosophy (PhD) in Usage Analytics for Cloud Applications at Dublin City University.</p>
@@ -55,8 +55,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/manoj-kesavulu"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://lero.ie/people/manoj-kesavulu"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
