@@ -252,7 +252,7 @@ content:
     layout: list
     content: 
       # Award 1
-      - layout: top-left
+      - layout: top
         title: Project of the Year - Tech Excellence Awards
         sub_title: Techcentral.ie
         caption: "2019"
