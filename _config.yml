@@ -261,25 +261,25 @@ content:
         caption: "2019"
         description: Finalist for the Project of the Year at the Tech Excellence Awards 2019 held at CIty West Hotel, Dublin, Ireland for the project "Usage Analytics"
       # Award 2
-      - layout: top-left
+      - layout: top
         title: Outstanding Academic Achievement Award - Industry Awards
         sub_title: Technology Ireland and IBEC
         caption: "2018"
         description: Runner-up Outstanding Academic Achievement Award at the Industry Awards 2018
       # Award 3
-      - layout: top-left
+      - layout: top
         title: DCU President’s Awards for Commercialisation
         sub_title: Dublin City University
         caption: "2017"
         description: DCU President’s Awards for Commercialisation for the research collaboration project with IBM Research Labs
       # Award 4  
-      - layout: top-left
+      - layout: top
         title: Best Science Project
         sub_title: Southern India Science Fair
         caption: "2006"
         description: Won the 2nd prize at the best science project award for the project "Bio-Mathematics" presented by Directorate of School Education Govt. of Pondicherry and Visveswaraya Industrial & Technological Museum, Bangalore, India
       #Award 5  
-      - layout: top-left
+      - layout: top
         title: Best Science Project
         sub_title: State-level Science Fair
         caption: "2006"
