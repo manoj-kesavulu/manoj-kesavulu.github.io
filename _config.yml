@@ -10,7 +10,7 @@ name: Manoj Kesavulu
 title: Doctoral Scholar
 email: manojpratnas@gmail.com
 # email_title: Email (Email title override)
-phone: +353894180169
+phone: "+353894180169"
 # phone_title: Phone (Phone title override)
 website: https://lero.ie/people/manoj-kesavulu
 # website_title: Web (Website title override)
@@ -64,9 +64,11 @@ about_content: | # this will include new lines to allow paragraphs
   #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+# Projects Section
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      # Project 1
       - layout: left
         title: USAGE ANALYTICS
         caption: 2017 - 2019
@@ -85,18 +87,30 @@ content:
           <mark>Python</mark> <mark>IBM Watson Workspace</mark> <mark>Data Analytics</mark> <mark>Flask</mark> <mark>Odoo</mark> <mark>Log management</mark> <mark>Python Dash</mark> <mark>Plotly</mark> <mark>Visual Studio Code</mark> <mark>Git</mark>
       # Project 2
       - layout: left
-        title: ADAPTIVE SECURITY CONTROL DEMONSTRATOR APP
+        title: Adaptive Security Control Demonstrator App
         caption: 2016 - 2017
         link: https://drive.google.com/file/d/0B3qnAsHlYypGX1RodmM3SnFaWmM/view
         link_text: Demonstration Video
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: https://github.com/chintu0019/Usage-Analytics
         quote: >
-          Novel solutions to understand how users use software applications
+          Physical Location and Context-based Authentication Mechanism
         description: | # this will include new lines to allow paragraphs
-          The project goal is to investigate user-level usage analysis in the cloud space, focusing on customer usage data mining for the cloud on/off-boarding trends, trajectories, risk assessments, tenant/cross-tenant patterns to infer usage confidence. The aim is to determine which features and functions are used, when and how, as this impacts software development costs.
+          The app collect user context information such as Physical location, Network type, device type. These information will be sent to Adaptation Manager which analyses these context information and decides appropriate security control (Authentication mechanism) using which user authenticates using the app to connect to the cloud built using OpenStack. Supports in-app fingerprint authentication.
+          
+          <mark>Android</mark> <mark>Java</mark> <mark>OpenStack</mark> <mark>Authentication</mark> <mark>Gradle build</mark> <mark>Linux</mark>
+      # Project 3
+      - layout: left
+        title: Intrusion Detection System for Cloud to Detect and Analyse Live Backdoor Attacks
+        caption: "2015"
+        link: https://drive.google.com/file/d/0B3qnAsHlYypGYnRkMFNmLVpCUzQ/view
+        link_text: Dissertation Report
+        quote: >
+          Created a backdoor virus and developed a novel Intrusion Detection System
+        description: | # this will include new lines to allow paragraphs
+          Private cloud environment is built using Eucalyptus cloud software. The attack performed is the backdoor root access to a terminal using Metasploit tool. Upon gaining access, forensic analysis (live network packet logging) is performed using various tools provided to the Linux systems and successfully determine a way to detect this particular attack and collect the evidence.
+
+          <mark>Penetration Testing</mark> <mark>Metasploit/mark> <mark>Backdoor Exploit development</mark> <mark>Nessus</mark> <mark>tcpdump</mark> <mark>Nmap</mark> <mark>Data Forensics</mark> <mark>Intrusion Detection and Prevention Mechanisms</mark> 
+  
+  # Experience Section
   - title: Experience
     layout: list
     content:
