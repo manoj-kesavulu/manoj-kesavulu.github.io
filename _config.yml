@@ -254,7 +254,15 @@ content:
   - title: Awards
     layout: list
     content: 
-      # Award 1
+      - layout: top
+        title: "INVENTION: System and methods for identifying end-user usage behaviour to improve software design decisions"
+        sub_title: Lead Inventor - IBM, Lero, DCU - IP.com
+        caption: "2020"
+        additional_links:
+          - title:  Invention Link
+            icon: fas fa-globe
+            url: https://priorart.ip.com/IPCOM/000261887
+        description: Invention (Intellectual Property) originated as a result of the research internship at IBM Research Labs, Ireland as a part of the Academic-Industry research collaboration between Lero, DCU and IBM. As a Lead Inventor, I designed and developed a Usage Analytics approach comprised of various components involving the analysis of software usage data to understand the impact of changes made to the application on the usage behaviour of the users.
       - layout: top
         title: Project of the Year - Tech Excellence Awards
         sub_title: Techcentral.ie
