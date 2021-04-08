@@ -211,23 +211,77 @@ content:
 
           <mark>HTML</mark> <mark>CSS</mark> <mark>PHP</mark> <mark>Java</mark> <mark>Java SE</mark> <mark>JUnit</mark> <mark>JavaScript</mark> <mark>AngularJS</mark> <mark>MySQL</mark>
 
+  # Education Section        
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      # Education 1
+      - layout: top-left
+        title: Dublin City University (DCU)
+        sub_title: Doctor of Philosophy (PhD)
+        caption: 2016 - Present
         quote: >
-          Short institution or course description (optional)
+          Software Usage Analytics
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          Thesis: ’Usage Analytics - Understanding Usage Behavior of the Software Users’
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          <mark>Python</mark> <mark>Linux</mark> <mark>shell scripting</mark> <mark>Flask</mark> <mark>Pandas</mark> <mark>Web Mining</mark> <mark>Data Processing</mark> <mark>Data Analytics</mark> <mark>ETL</mark> <mark>NewRelic</mark> <mark>GraphQL</mark> <mark>ElasticSearch</mark> <mark>plotly</mark> <mark>Latex</mark> <mark>Overleaf</mark> 
+      # Education 2
+      - layout: top-left
+        title: University of Limerick (UL)
+        sub_title: Master of Engineering 
+        caption: 2014 - 2015
+        quote: >
+          Information and Network Security
+        description: | # this will include new lines to allow paragraphs
+          Thesis: ’A Cloud Computing Digital Forensics Method Based on Detecting and Analyzing Live Backdoor Attacks’
+                
+          <mark>Penetration Testing</mark> <mark>Metasploit</mark> <mark>Backdoor Exploit development</mark> <mark>Nessus</mark> <mark>tcpdump</mark> <mark>Nmap</mark> <mark>Data Forensics</mark> <mark>Intrusion Detection System</mark>
+      # Education 3
+      - layout: top-left
+        title: Visveswaraya Technological university (VTU)
+        sub_title: Bachelor of Engineering
+        caption: 2009 - 2013
+        quote: >
+          Computer Science and Engineering
+        description: | # this will include new lines to allow paragraphs
+          Thesis: ’Optimization of Data Processing in Private Cloud’
+
+  # Awards Section
+  - title: Awards
+    layout: list
+    content: 
+      # Award 1
+      - layout: top-left
+        title: Project of the Year - Tech Excellence Awards
+        sub_title: Techcentral.ie
+        caption: "2019"
+        description: Finalist for the Project of the Year at the Tech Excellence Awards 2019 held at CIty West Hotel, Dublin, Ireland for the project "Usage Analytics"
+      # Award 2
+      - layout: top-left
+        title: Outstanding Academic Achievement Award - Industry Awards
+        sub_title: Technology Ireland and IBEC
+        caption: "2018"
+        description: Runner-up Outstanding Academic Achievement Award at the Industry Awards 2018
+      # Award 3
+      - layout: top-left
+        title: DCU President’s Awards for Commercialisation
+        sub_title: Dublin City University
+        caption: "2017"
+        description: DCU President’s Awards for Commercialisation for the research collaboration project with IBM Research Labs
+      # Award 4  
+      - layout: top-left
+        title: Best Science Project
+        sub_title: Southern India Science Fair
+        caption: "2006"
+        description: Won the 2nd prize at the best science project award for the project "Bio-Mathematics" presented by Directorate of School Education Govt. of Pondicherry and Visveswaraya Industrial & Technological Museum, Bangalore, India
+      #Award 5  
+      - layout: top-left
+        title: Best Science Project
+        sub_title: State-level Science Fair
+        caption: "2006"
+        description: Won the best science project award for the project "Bio-Mathematics" presented by Sarvajanika Shikshana Ilake, Govt. of Karnataka, India
+   
 
 # Footer
 footer_show_references: true
