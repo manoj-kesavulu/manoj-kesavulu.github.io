@@ -108,8 +108,44 @@ content:
         description: | # this will include new lines to allow paragraphs
           Private cloud environment is built using Eucalyptus cloud software. The attack performed is the backdoor root access to a terminal using Metasploit tool. Upon gaining access, forensic analysis (live network packet logging) is performed using various tools provided to the Linux systems and successfully determine a way to detect this particular attack and collect the evidence.
 
-          <mark>Penetration Testing</mark> <mark>Metasploit/mark> <mark>Backdoor Exploit development</mark> <mark>Nessus</mark> <mark>tcpdump</mark> <mark>Nmap</mark> <mark>Data Forensics</mark> <mark>Intrusion Detection and Prevention Mechanisms</mark> 
-  
+          <mark>Penetration Testing</mark> <mark>Metasploit</mark> <mark>Backdoor Exploit development</mark> <mark>Nessus</mark> <mark>tcpdump</mark> <mark>Nmap</mark> <mark>Data Forensics</mark> <mark>Intrusion Detection and Prevention Mechanisms</mark> 
+      # Project 4
+      - layout: left
+        title: Data Forensics Tool to Evaluate MBR Record
+        caption: "2014 - 2015"
+        #link: https://drive.google.com/file/d/0B3qnAsHlYypGYnRkMFNmLVpCUzQ/view
+        #link_text: Dissertation Report
+        quote: >
+          Data Forensics Tool to Verify Evidence and Recover Lost Data
+        description: | # this will include new lines to allow paragraphs
+          A C++ based tool for extracting information for examination to be used as evidence or even to recover lost data. In digital forensic analysis, Master Boot Record is captured to extract the required information of the hard disk to support the investigation process. 
+
+          <mark>C++</mark> <mark>Data Forensics</mark> <mark>MBR</mark> <mark>Linux Scripting</mark>  
+      # Project 5
+      - layout: left
+        title: Card Game Simulator
+        caption: "2014 - 2015"
+        #link: https://drive.google.com/file/d/0B3qnAsHlYypGYnRkMFNmLVpCUzQ/view
+        #link_text: Dissertation Report
+        quote: >
+          A simple and cool card game
+        description: | # this will include new lines to allow paragraphs
+          Developed a Java tool to simulate the Rummy card game with dynamic number of player selection
+
+          <mark>Java</mark> <mark>Statistical Analysis</mark> <mark>Linux Scripting</mark>
+      # Project 6
+      - layout: left
+        title: Card Game Simulator
+        caption: "2012 - 2013"
+        #link: https://drive.google.com/file/d/0B3qnAsHlYypGYnRkMFNmLVpCUzQ/view
+        #link_text: Dissertation Report
+        quote: >
+          A simple and cool card game
+        description: | # this will include new lines to allow paragraphs
+          Built a basic private Cloud system using OpenStack and developed a C++ tool for analysis of various scheduling algorithms (FIFO, Round-robin scheduling, LIFO, Preemptive scheduling) for the purpose of determining performance variations between the algorithms. (Part of my bachelor’s final year project to decide which algorithm would suit best for a private cloud environment)
+
+          <mark>C++</mark> <mark>OpenStack</mark> <mark>FIFO</mark> <mark>Round-Robin</mark> <mark>Linux</mark>
+
   # Experience Section
   - title: Experience
     layout: list
