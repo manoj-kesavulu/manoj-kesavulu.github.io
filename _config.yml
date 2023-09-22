@@ -12,7 +12,7 @@ email: manojpratnas@gmail.com
 # email_title: Email (Email title override)
 phone: "+353894180169"
 # phone_title: Phone (Phone title override)
-website: https://lero.ie/people/manoj-kesavulu
+website: https://manoj-kesavulu.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -35,9 +35,9 @@ orcid_username: 0000-0001-5505-9593
 
 # Additional icon links
 additional_links:
-- title: Lero, DCU
-  icon: fas fa-university
-  url: https://dcu.lero.ie/team/manojkesavulu/
+- title: Portfolio
+  icon: fas fa-id-card
+  url: https://manoj-kesavulu.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -219,13 +219,13 @@ content:
       - layout: top-left
         title: Dublin City University (DCU)
         sub_title: Doctor of Philosophy (PhD)
-        caption: 2016 - Present
+        caption: 2016 - 2023
         quote: >
-          Software Usage Analytics
+          Software Usage Analytics, User Behaviour
         description: | # this will include new lines to allow paragraphs
           Thesis: ’Usage Analytics - Understanding Usage Behavior of the Software Users’
 
-          <mark>Python</mark> <mark>Linux</mark> <mark>shell scripting</mark> <mark>Flask</mark> <mark>Pandas</mark> <mark>Web Mining</mark> <mark>Data Processing</mark> <mark>Data Analytics</mark> <mark>ETL</mark> <mark>NewRelic</mark> <mark>GraphQL</mark> <mark>ElasticSearch</mark> <mark>plotly</mark> <mark>Latex</mark> <mark>Overleaf</mark> 
+          <mark>Python</mark> <mark>Linux</mark> <mark>shell scripting</mark> <mark>Flask</mark> <mark>Pandas</mark> <mark>Web Mining</mark> <mark>Data Processing</mark> <mark>Data Analytics</mark> <mark>ETL</mark> <mark>NewRelic</mark> <mark>GraphQL</mark> <mark>ElasticSearch</mark> <mark>plotly</mark> 
       # Education 2
       - layout: top-left
         title: University of Limerick (UL)
