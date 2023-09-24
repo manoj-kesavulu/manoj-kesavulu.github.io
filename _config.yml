@@ -83,7 +83,7 @@ content:
           - Developed an analytics tool for E-sports summarisation of Counter Strike GO that gathered the game and player strategies used in a specific game session instantly, could be used by the developers to understand the game plays of different types of users quickly.
           - Conducted an exploratory analysis of state-of-the-art summarisation tool available in the E-sports domain.
 
-          <mark>Python</mark> <mark>Exploratory Analysis</mark> <mark>Data Analytics</mark> <mark>Git</mark> <mark>Quantitative Research</mark>
+          <mark>Python</mark> <mark>Exploratory Analysis</mark> <mark>Data Analytics</mark> <mark>Git</mark> <mark>Quantitative Research</mark> <mark>User Research</mark>
       # Project 1
       - layout: left
         title: Usage Analytics
@@ -154,16 +154,16 @@ content:
           <mark>Java</mark> <mark>Statistical Analysis</mark> <mark>Linux Scripting</mark>
       # Project 6
       - layout: left
-        title: Card Game Simulator
+        title: Cloud Performance Analysis Tool
         caption: "2012 - 2013"
         #link: https://drive.google.com/file/d/0B3qnAsHlYypGYnRkMFNmLVpCUzQ/view
         #link_text: Dissertation Report
         quote: >
-          A simple and cool card game
+          Optimization of Data Processing in Private Cloud
         description: | # this will include new lines to allow paragraphs
-          Built a basic private Cloud system using OpenStack and developed a C++ tool for analysis of various scheduling algorithms (FIFO, Round-robin scheduling, LIFO, Pre-emptive scheduling) for the purpose of determining performance variations between the algorithms. (Part of my bachelor’s final year project to decide which algorithm would suit best for a private cloud environment)
+          Built a basic private Cloud system using OpenStack and developed a C++ tool for analysis of various scheduling algorithms (FIFO, Round-robin scheduling, LIFO, Pre-emptive scheduling) for the purpose of determining performance variations between the algorithms. (Part of my bachelor’s final year project to analyse and recommend best algorithm for a private cloud environment)
 
-          <mark>C++</mark> <mark>OpenStack</mark> <mark>FIFO</mark> <mark>Round-Robin</mark> <mark>Linux</mark>
+          <mark>C++</mark> <mark>OpenStack</mark> <mark>FIFO</mark> <mark>Round-Robin</mark> <mark>Linux</mark> <mark>Algorithm Design</mark> <mark>Cloud Performance</mark>
 
   # Experience Section
   - title: Experience
