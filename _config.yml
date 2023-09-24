@@ -273,6 +273,18 @@ content:
   - title: Awards
     layout: list
     content: 
+      # Award
+      - layout: top
+        title: Commercialization Award for the project **Usage Analytics**
+        sub_title: Dublin City university
+        caption: "2022"
+        description: Won DCU Invent's award for commercialisation for the project *Usage Analytics* 
+      # Award
+      - layout: top
+        title: Commercialization Award for the project **ServiSource**
+        sub_title: Dublin City university
+        caption: "2022"
+        description: Won DCU Invent's award for commercialisation for the project *ServiSource* 
       # Invention
       - layout: top
         title: "INVENTION: System and methods for identifying end-user usage behaviour to improve software design decisions"
