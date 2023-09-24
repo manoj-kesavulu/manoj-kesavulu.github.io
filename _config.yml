@@ -275,13 +275,13 @@ content:
     content: 
       # Award
       - layout: top
-        title: Commercialization Award for the project **Usage Analytics**
+        title: Commercialization Award for the project - Usage Analytics
         sub_title: Dublin City university
         caption: "2022"
         description: Won DCU Invent's award for commercialisation for the project *Usage Analytics* 
       # Award
       - layout: top
-        title: Commercialization Award for the project **ServiSource**
+        title: Commercialization Award for the project - ServiSource
         sub_title: Dublin City university
         caption: "2022"
         description: Won DCU Invent's award for commercialisation for the project *ServiSource* 
