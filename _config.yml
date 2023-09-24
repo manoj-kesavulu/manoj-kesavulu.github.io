@@ -163,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Built a basic private Cloud system using OpenStack and developed a C++ tool for analysis of various scheduling algorithms (FIFO, Round-robin scheduling, LIFO, Pre-emptive scheduling) for the purpose of determining performance variations between the algorithms. (Part of my bachelor’s final year project to analyse and recommend best algorithm for a private cloud environment)
 
-          <mark>C++</mark> <mark>OpenStack</mark> <mark>FIFO</mark> <mark>Round-Robin</mark> <mark>Linux</mark> <mark>Algorithm Design</mark> <mark>Cloud Performance</mark>
+          <mark>C++</mark> <mark>OpenStack</mark> <mark>FIFO</mark> <mark>Round-Robin</mark> <mark>Linux</mark> <mark>Algorithm Design</mark> <mark>Cloud Performance Analysis</mark>
 
   # Experience Section
   - title: Experience
@@ -317,6 +317,27 @@ content:
   - title: Publications
     layout: list
     content: 
+      # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://dl.acm.org/doi/fullHtml/10.1145/3592573.3593096
+        description: "Hordvik, M. T., Østby, J. S. T., Kesavulu, M., Nguyen, T. N., Le, T. K., & Dang-Nguyen, D. T. (2023, June). **LifeLens: Transforming Lifelog Search with Innovative UX/UI Design**. In Proceedings of the 6th Annual *ACM Lifelog Search Challenge* (pp. 1-6). Thessaloniki, Greece. <mark>LSC/mark> <mark>ACM</mark>"
+      # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://link.springer.com/chapter/10.1007/978-3-030-98358-1_32
+        description: "Palbar, T., Kesavulu, M., Gurrin, C., & Verbruggen, R. (2022, March) **Prediction of Blood Glucose Using Contextual LifeLog Data**. In *International Conference on Multimedia Modeling* (pp. 404-415). Lecture Notes in Computer Science, vol 13141. <mark>SPRINGER/mark> <mark>MMM</mark>"
+      # publication
+      - layout: top
+        additional_links:
+          - title:  Publication Link
+            icon: fas fa-globe
+            url: https://priorart.ip.com/IPCOM/000261887
+        description: "Kesavulu M., Patel B., Helfert M. (2020) **System and methods for identifying end-user usage behaviour to improve software design decisions**. <mark>ip.com</mark> <mark>Intellectual Property</mark>"
       # publication
       - layout: top
         additional_links:
