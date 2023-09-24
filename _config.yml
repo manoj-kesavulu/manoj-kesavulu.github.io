@@ -68,6 +68,26 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    # Project
+      - layout: left
+        title: LifeLens
+        caption: 2023
+        link: https://dl.acm.org/doi/fullHtml/10.1145/3592573.3593096
+        link_text: Publication
+        #additional_links:
+        #  - title:  Github page for project
+        #    icon: fab fa-github
+        #    url: https://github.com/chintu0019/Usage-Analytics
+        quote: >
+          Transforming Lifelog Search with Innovative UX/UI Design
+        description: | # this will include new lines to allow paragraphs
+          - Led a team of UX designers in Bergen, Norway and researchers and developers in Dublin, Ireland.
+          - Mentor, guide and manage researchers. Identify the research requirements, plan research lifecycle, provide feedback and guidance to both design and research team.
+          - Built a novel responsive user interface for lifelog search engine supporting natural language queries to search multimedia data.
+          - Used quantitative research methods such as User Behaviour Analysis and Experimental Research.
+
+          <mark>Python</mark> <mark>Javascript</mark> <mark>NPM</mark> <mark>Git</mark> <mark>Quantitative Research</mark> <mark>User Experience Research</mark> <mark>Research Lead</mark>
+    # Project
       - layout: left
         title: E-Sports Research
         caption: 2019
@@ -80,8 +100,9 @@ content:
         quote: >
           Summarizing E-sports matches and tournaments: the example of counter-strike: global offensive
         description: | # this will include new lines to allow paragraphs
-          - Developed an analytics tool for E-sports summarisation of Counter Strike GO that gathered the game and player strategies used in a specific game session instantly, could be used by the developers to understand the game plays of different types of users quickly.
+          - Developed an analytics tool for E-sports summarisation of Counter Strike GO that gathered the game and player strategies used in a specific game session instantly, aimed at helping game developers to understand the different game plays and strategies of different types of users (gamers) quickly.
           - Conducted an exploratory analysis of state-of-the-art summarisation tool available in the E-sports domain.
+          - Used quantitative research methods such as Experimental research and Descriptive analysis.
 
           <mark>Python</mark> <mark>Exploratory Analysis</mark> <mark>Data Analytics</mark> <mark>Git</mark> <mark>Quantitative Research</mark> <mark>User Research</mark>
       # Project 1
