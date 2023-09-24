@@ -190,6 +190,45 @@ content:
   - title: Experience
     layout: list
     content:
+      # Experience
+      - layout: left
+        title: Researcher/Analyst Programmer/Linux Administrator
+        sub_title: Dublin City University
+        caption: "2023 - Present"
+        additional_links:
+          - title:  DCU, Dublin, Ireland
+            icon: far fa-building
+            url: https://www.dcu.ie/computing/people/manoj-kesavulu
+        quote: >
+          Various Projects 
+        description: | # this will include new lines to allow paragraphs
+          - Design algorithms for software usage monitoring and user behavioural analytics.
+          - Built, implemented and maintaining various Linux container services including image creation. Investigate security and performance incidents, conduct root cause analysis, develop fixes and patches.
+          - Employed load balancing techniques, containerization with Docker, and horizontally scaled application instances to distribute traffic efficiently and ensure high availability.
+          - Design and development of Ansible Playbooks for maintaining 400+ Linux machines.
+          - Design development strategies & project goals of the new software products based on insights gathered from business goals.
+          - Communicate research outputs and project updates with different stakeholders. 
+          
+
+          <mark>Python</mark> <mark>Linux</mark> <mark>shell scripting</mark> <mark>Docker</mark> <mark>Containers</mark><mark>Ansible</mark> <mark>Automation</mark> <mark>Data Analytics</mark> <mark>Software Development</mark> <mark>Publications</mark> <mark>git</mark> <mark>CI/CD</mark> <mark>UI/UX</mark>
+      # Experience
+      - layout: left
+        title: Researcher/Assistant Professor
+        sub_title: Dublin City University
+        caption: "2021 - 2023"
+        additional_links:
+          - title:  DCU, Dublin, Ireland
+            icon: far fa-building
+            url: https://www.dcu.ie/computing/
+        quote: >
+          Teaching and various research projects
+        description: | # this will include new lines to allow paragraphs
+          - Design, organise and teach programming (python) and cloud technology modules : Docker, AWS, GCP, Hadoop, MapReduce, Pig, Hive and Spark.
+          - Research, publish academic conference papers, design and run experiments, develop prototypes, proofs-of-concept to test and validate the hypotheses.
+          - Built various Python software products, analytics frameworks & methods (#Projects).
+          - Mentor early stage researchers, provide guidance & review research outputs in the Cloud, AI/ML, Data Analytics, Software Development, UI/UX and other related research projects.
+
+          <mark>Python</mark> <mark>Linux</mark> <mark>shell scripting</mark> <mark>Cloud</mark> <mark>Docker></mark> <mark>Research</mark> <mark>Statistical Mathematics</mark> <mark>Data Analytics</mark> <mark>Software Development</mark> <mark>Publications</mark> <mark>ETL</mark> <mark>Distributed Computing</mark> <mark>Parallel Processing</mark> <mark>CI/CD</mark> <mark>UI/UX</mark>
       # Experience 1
       - layout: left
         title: Researcher
@@ -235,14 +274,14 @@ content:
           - Scientific and critical reviewing of research papers.
           - Developed research skills, teamwork with a team of diverse skills, project management and technical skills.
 
-          <mark>Linux</mark> <mark>Java</mark> <mark>Linux Containers</mark> <mark>Python</mark> <mark>Bash Scripting</mark> <mark>Git</mark> <mark>OpenStack</mark> <mark>Android Development</mark>
+          <mark>Linux</mark> <mark>Java</mark> <mark>Linux Containers(LxC)</mark> <mark>Python</mark> <mark>Bash Scripting</mark> <mark>Git</mark> <mark>OpenStack</mark> <mark>Android Development</mark>
       # Experience 3
       - layout: left
-        title: Freelance
-        sub_title: Web Designer and Developer
+        title: Web Designer and Developer
+        sub_title: Freelance
         caption: "2013 - 2014"
         quote: >
-           Development of Web Applications
+           Development of Web Applications and Server Management
         description: | # this will include new lines to allow paragraphs
           - Designed dynamic web applications, development and maintenance of websites for various start-ups and various projects from small companies 
           - Quantitative and Qualitative analysis of websites
